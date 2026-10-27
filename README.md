@@ -54,7 +54,11 @@ The four record repositories (the two Terrebonne ones, Montreal-collisions and M
 - The READMEs describe and quote. They do not evaluate, recommend or impute motives.
 - Every page reference in a public README links to the page (`#page=N`) where a Pages copy exists.
 - Third-party data are named with a link and never redistributed unless their licence allows it; City open data (CC BY 4.0) is redistributed with credit.
-- The full edit history is public by design. Much of the work was done with an AI assistant (Anthropic's Claude), which is named as co-author on the commits it contributed to.
+- The full edit history is public by design.
+
+## Use of AI
+
+Much of the code and many of the drafts in these repositories were produced with an AI assistant, Anthropic's Claude, in interactive sessions directed by the author. The author chose the questions, supplied the sources, reviewed every output, and checked every quotation, page reference and figure against the documents; the author alone is responsible for the content. Commits to which the assistant contributed name it as co-author, so the division of work is visible in the history, and errors found in its work are corrected in the open like any other. Nothing in a `raw/` folder is edited by anyone, human or machine. Each repository's README carries the same statement.
 
 ## About the author
 
