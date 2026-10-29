@@ -4,7 +4,7 @@ Les dépôts d'OpenMobilityData sont faits pour être lus, mais ils sont volumin
 
 **Mode d'emploi.** Copiez le texte de l'encadré ci-dessous (GitHub affiche un bouton de copie en haut à droite), collez-le dans votre assistant, remplacez la dernière ligne par votre question, puis envoyez. Utilisez un assistant dont la navigation Web est activée. S'il ne peut pas ouvrir de pages Web, il vous le dira ; vous pourrez alors télécharger un dépôt (bouton vert « Code », « Download ZIP ») et lui fournir le `README.md` du dossier et les documents qu'il énumère.
 
-**À quoi s'attendre.** L'assistant devrait citer les documents, relier chaque citation à sa page et dire lorsqu'une information ne figure pas dans les dossiers. Vérifiez toute citation importante en ouvrant le lien : les assistants se trompent, et ce sont les documents qui font foi, pas l'assistant. La version anglaise est dans [ASK_AN_AI.md](ASK_AN_AI.md).
+**À quoi s'attendre.** L'assistant devrait citer les documents, relier chaque citation à sa page et dire lorsqu'une information ne figure pas dans les dossiers. Vérifiez toute citation importante en ouvrant le lien : les assistants se trompent, et ce sont les documents qui font foi, pas l'assistant. La version anglaise est dans [ASK_AN_AI_en.md](ASK_AN_AI_en.md).
 
 ```
 Tu m'aides à trouver des réponses dans les dépôts publics d'OpenMobilityData sur GitHub, qui réunissent des documents sur la mobilité à Montréal, surtout la piste cyclable protégée de la rue de Terrebonne, dans Côte-des-Neiges–Notre-Dame-de-Grâce, et le projet de l'arrondissement, en 2026, d'en convertir une direction en stationnement chaque hiver.
