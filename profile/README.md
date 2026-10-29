@@ -4,6 +4,8 @@ Public records and open data on mobility in Montréal, kept with their provenanc
 
 This page is the map. Each link below opens the repository's README, which says what the repository holds, where each document came from and how to reproduce every table and figure.
 
+**Ask an AI assistant.** To search these records with an AI assistant that can read web pages (Claude, ChatGPT and others), copy the ready-made preamble in [ASK_AN_AI.md](https://github.com/OpenMobilityData/.github/blob/main/ASK_AN_AI.md) (en français : [ASK_AN_AI_fr.md](https://github.com/OpenMobilityData/.github/blob/main/ASK_AN_AI_fr.md)), add your question, and check the pages it cites.
+
 ## The rue de Terrebonne bike lane
 
 | Repository | What it holds |
