@@ -22,6 +22,11 @@ A selection of folders in Terrebonne-open-sources, for readers coming to the sub
 [CBC Daybreak, October 9, 2026](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-cbc-daybreak-interview/README.md) ·
 [the City's bicycle counters](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-city-bike-counters/README.md) ·
 [off-street parking as built, 1954–55](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/1954-underwriters-plans-terrebonne-garages/README.md) ·
+[how wide the street is (LiDAR 2015)](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2015-lidar-terrebonne-street-width/README.md) ·
+[who rides in winter: counts and frequency](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-winter-counts-user-frequency/README.md) ·
+[parking supply and demand](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-parking-supply-demand-survey-context/README.md) ·
+[cars queued behind a cyclist in the shared winter lane](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-shared-lane-queue/README.md) ·
+[the street's congregations' charity returns](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-terrebonne-congregations-cra-t3010/README.md) ·
 [the winter numbers on one page](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-poster-winter-numbers/README.md).
 
 ## Montréal-wide records
