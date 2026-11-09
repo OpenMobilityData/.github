@@ -27,7 +27,8 @@ A selection of folders in Terrebonne-open-sources, for readers coming to the sub
 [parking supply and demand](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-parking-supply-demand-survey-context/README.md) ·
 [cars queued behind a cyclist in the shared winter lane](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-shared-lane-queue/README.md) ·
 [the street's congregations' charity returns](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-terrebonne-congregations-cra-t3010/README.md) ·
-[the winter numbers on one page](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-poster-winter-numbers/README.md).
+[the winter numbers on one page](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-poster-winter-numbers/README.md) ·
+[other cities' experience (Boston's Better Bike Lanes evaluations)](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/other-cities/README.md).
 
 ## Montréal-wide records
 
