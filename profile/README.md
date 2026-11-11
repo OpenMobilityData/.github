@@ -26,6 +26,7 @@ A selection of folders in Terrebonne-open-sources, for readers coming to the sub
 [who rides in winter: counts and frequency](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-winter-counts-user-frequency/README.md) ·
 [weather, daylight, snow and bicycle traffic (draft)](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-weather-and-bike-traffic/README.md) ·
 [parking supply and demand](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-parking-supply-demand-survey-context/README.md) ·
+[automobiles and curb along the corridor (draft)](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-terrebonne-corridor-vehicles-and-curb/README.md) ·
 [cars queued behind a cyclist in the shared winter lane](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-shared-lane-queue/README.md) ·
 [the street's congregations' charity returns](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-terrebonne-congregations-cra-t3010/README.md) ·
 [the winter numbers on one page](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2026-poster-winter-numbers/README.md) ·
