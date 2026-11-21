@@ -1,6 +1,6 @@
 # OpenMobilityData
 
-Public records and open data on mobility in Montréal, kept with their provenance, and the code that reads them. The repositories below were created by a resident of Côte-des-Neiges–Notre-Dame-de-Grâce, most of them around one question, the protected bike lane on rue de Terrebonne and the borough's plan of October 2026 to convert one direction to parking each winter, but much of the material is city-wide and is meant to outlast that question: police-reported collisions for the whole island, the City's access-to-information releases, the City's bicycle counters, the air-quality network.
+Public records and open data on mobility in Montréal, kept with their provenance, and the code that reads them. The repositories below were created by Rick Hoge, most of them around one question, the protected bike lane on rue de Terrebonne and the borough's plan of October 2026 to convert one direction to parking each winter, but much of the material is city-wide and is meant to outlast that question: police-reported collisions for the whole island, the City's access-to-information releases, the City's bicycle counters, the air-quality network.
 
 This page is the map. Each link below opens the repository's README, which says what the repository holds, where each document came from and how to reproduce every table and figure.
 
@@ -76,4 +76,6 @@ Everything is open to review: all source code, documents and data in these repos
 
 ## About the author
 
-The repositories were created, and the derived documents written, by Rick Hoge, a resident of Côte-des-Neiges–Notre-Dame-de-Grâce who cycles on Terrebonne in every season. He works as a data scientist and is a professor in the Faculty of Medicine at McGill University, where his research is in neuroscience and biomedical engineering. The work here is personal: done as a resident, on his own time, from public records, and representing no position of McGill University or of any other organization; the affiliation is given for identification only. Corrections are welcome through each repository's issue tracker.
+The repositories were created, and the derived documents written, by Rick Hoge, a researcher in the Faculty of Medicine at McGill University. The views expressed here are the author's own and do not reflect the position of any institution or organization. Unless otherwise indicated, analyses presented here should be considered preliminary pre-peer-review drafts - feedback from other researchers and members of the public is welcome in the GitHub 'Issues' board.
+
+Nothing in these repositories should be considered an engineering opinion or legal advice.
